@@ -1,0 +1,55 @@
+jdk21 다운로드 Windows x64 Compressed Archive
+이클립스 다운로드 Eclipse IDE for Java Developers
+로컬디스크에 dev폴더 만들고 ide workspace 등 만들어주기
+맥 버전 환경변수 추가하는 법 검색해서 넣기
+
+
+클래스 이름은 무조건 대문자로
+String 은 다른 자료형과 다르게 클래스라 대문자로
+src 안에 package 생성하고 test01파일(클래스) 생성
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+10
+
+
+11
+12
+
+1
+2
+
+3
+4
+
+5
+6
